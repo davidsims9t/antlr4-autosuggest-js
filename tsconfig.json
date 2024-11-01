@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es2019",
+        "lib": ["esnext"],
+        "moduleResolution": "nodenext",
+        "module": "NodeNext"
+    },
+    "exclude": [
+        "**/dist/**",
+        "**/node_modules/**"
+    ]
+}
